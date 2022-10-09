@@ -13,3 +13,6 @@ Save my writeup of adworld
 - [unseping](https://adworld.xctf.org.cn/challenges/details?hash=3714626e-3a5b-11ed-abf3-fa163e4fa609&task_category_id=3)
 - [file_include](https://adworld.xctf.org.cn/challenges/details?hash=ceb014e8-3a5a-11ed-abf3-fa163e4fa609&task_category_id=3)
 
+[2022年10月9日](2022年10月9日.md)
+
+- [easyphp](https://adworld.xctf.org.cn/challenges/details?hash=5e5ff94c-3a5a-11ed-abf3-fa163e4fa609&task_category_id=3)
